@@ -1,5 +1,5 @@
 # Final Project
-
+![Alt text](screenshot.png)
 ## Execution Instructions
 
 To run the project, follow these steps:
